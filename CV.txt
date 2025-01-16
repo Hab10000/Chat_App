@@ -1,0 +1,49 @@
+
+Enbakom Getaneh
+Addis Ababa   
++251 93 654 5200  
+Alazarembakom198@gmail.com  
+Hab10000  
+
+Greetings
+
+As a junior skilled Full-Stack Developer I specialize in crafting scalable, high-performing web applications using modern web technologies, with a particular focus on React, Next.js, and Node.js within the MERN stack.
+
+With a strong foundation in HTML, CSS, and JavaScript, I have hands-on experience utilizing frameworks like TailwindCSS and Bootstrap to create responsive and visually appealing designs. My expertise extends to advanced JavaScript libraries and frameworks, including ReactJS, NextJS, and Redux, enabling me to build dynamic, user-centric interfaces.
+
+My passion for backend development lies in designing efficient APIs and managing server-side logic with Node.js, Express, and MongoDB, ensuring seamless functionality and robust database integration. This comprehensive approach allows me to deliver end-to-end solutions tailored to the unique needs of each project.
+
+I integrate best practices like Test-Driven Development (TDD) into my workflow, leveraging tools such as Jest and Mocha to ensure code reliability and maintainability. My familiarity with modern version control systems like Git further enhances my ability to collaborate effectively in team environments.
+
+I invite organizations and individuals seeking innovative, reliable, and scalable web applications to collaborate with me. My dedication is to delivering exceptional solutions that exceed expectations and align with industry standards.
+
+
+TECHNICAL SKILLS  
+- Languages: JavaScript,HTML5,CSS, Node.js  
+- Frameworks: Django, Express.js  
+- Databases: MogoDB, MySQL,  
+- Tools & Technologies: Docker, Git, AWS
+- APIs: RESTful services, GraphQL, SOAP 
+- Methodologies: Agile, Scrum, CI/CD  
+
+
+EDUCATION  
+
+Graduated with an Alx Software Engineering in Software Engineering 
+Holberton, San Francisco, United States  
+Started the 05/22/2023
+Ended the 04/05/2024
+intranet.alxswe.com/certificates/C9p3FRNhmB
+
+PROJECT EXPERIENCE  
+Backend Development Projects  
+- E-commerce Platform: Developed a microservices-based e-commerce platform using  Django and AWS as part of a university project, which improved deployment speed and scalability.  
+- RESTful API for Mobile App: Created a RESTful API using Node.js and Express for a mobile application, enabling seamless data exchange and enhancing user engagement.  
+
+
+ADDITIONAL INFORMATION  
+- Fluent in English   
+- Participated in coding bootcamps and hackathons to enhance practical skills and collaborate with peers.  
+- Passionate about open-source software and contributing to community-driven projects. 
+SUMMARY  
+Motivated and detail-oriented software engineer specializing in backend development, with a strong foundation in programming languages and frameworks. Recently graduated with an Alx Software Engineering program  in Software Engineering and participated in real-life projects that enhanced my skills in developing scalable and efficient backend systems. Eager to contribute to a dynamic team and further develop my technical expertise.
