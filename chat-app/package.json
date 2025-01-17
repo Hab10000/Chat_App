@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "start": "node src/utils/index.js",
-  "dev": "nodemon src/utils/index.js"
+    "start": "node server.js",
+    "dev": "npx nodemon server.js"
   },
-  
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "A simple chat application with Express, Socket.IO, and Node.js",
   "dependencies": {
     "bad-words": "^3.0.0",
     "express": "^4.16.4",
@@ -19,4 +18,3 @@
     "nodemon": "^1.18.7"
   }
 }
-
